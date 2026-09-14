@@ -1,5 +1,6 @@
 # dashboard-food
-<img width="2285" height="983" alt="image" src="https://github.com/user-attachments/assets/51c15220-39c1-4fde-9fd2-e250ac91ee1c" />
+<img width="2269" height="988" alt="image" src="https://github.com/user-attachments/assets/3d4ee4fb-e5cc-4631-810a-4b60aa3b6ebe" />
+
 Находки по дашборду (2021–2023, food-дистрибьютор)
 
 Выручка стабильно растёт: +30% в 2022 году и +35% в 2023-м (год к году), совокупно за три года — рост почти в 1,8 раза (с 1,10 млн до 1,93 млн).
